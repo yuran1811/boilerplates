@@ -1,24 +1,9 @@
-# Vite - React - Typescript - TailwindCSS Boilerplate
+# Welcome to my boilerplates
 
-## Usage
+### There is one boilerplate here:
 
-### Step 1: Get the boilerplate
+-   Vite - React - Typescript - TailwindCSS
 
-- Download the boilerplate zip or clone this repo then switch to the branch
+### Please checkout the branches and choose your own boilerplate
 
-```
-git clone https://github.com/yuran1811/boilerplates.git
-```
-
-### Step 2: Install dependencies
-
-```
-npm i
-
-```
-
-### Step 3: Run
-
-```
-npm start
-```
+### Thanks for using
