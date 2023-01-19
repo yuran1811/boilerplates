@@ -1,9 +1,13 @@
-# Welcome to my boilerplates
+# Canvas Boilerplate
 
-### There is one boilerplate here:
+## Installation
 
--   Vite - React - Typescript - TailwindCSS
+```bash
+npm i
+npm start
+```
 
-### Please checkout the branches and choose your own boilerplate
+## Techstacks
 
-### Thanks for using
+- Vite
+- Typescript
