@@ -2,8 +2,8 @@
 
 ### These are available boilerplates:
 
-- Vite - React - Typescript - TailwindCSS
-- Vite - Typescript - Canvas
+- Frontend Boilerplate: Vite - React - Typescript - TailwindCSS
+- Canvas Boilerplate: Vite - Typescript
 
 ### Please checkout the branches and choose your own boilerplate
 
