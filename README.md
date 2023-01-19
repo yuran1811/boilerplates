@@ -1,9 +1,10 @@
 # Welcome to my boilerplates
 
-### There is one boilerplate here:
+### These are available boilerplates:
 
--   Vite - React - Typescript - TailwindCSS
+- Vite - React - Typescript - TailwindCSS
+- Vite - Typescript - Canvas
 
 ### Please checkout the branches and choose your own boilerplate
 
-### Thanks for using
+### Thanks for using!
